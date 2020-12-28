@@ -1,4 +1,4 @@
-# 🚀🎯 Django_Basic
+# 🎯 Django_Basic
 - 장고를 활용한 블로그 만들기 연습
 - 개발환경
   - OS : Windows10
@@ -13,27 +13,22 @@
 4. python manage.py makemigrations
 5. python manage.py migrate
 6. python manage.py runserver
-
 ```
 
 # 주요 기능
 
-- SIGNUP / LOGIN
+- 회원가입 / 로그인
 
 <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103202850-e725ae00-4936-11eb-89f3-b6393f78b937.png">
 
-
-- Profile Update
-
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/57563053/103130152-d5e26480-46de-11eb-99ad-58a688ab7dd1.gif">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203076-85b20f00-4937-11eb-881b-fabaf417e5d3.png">
 
 
-- ILCHON
+- 글쓰기 기능
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/57563053/103130250-3ec9dc80-46df-11eb-972b-5fe48bdb570f.png">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203126-98c4df00-4937-11eb-9e66-5e6ed4e7dae7.png">
 
 
-- Comment
+- 글 수정 및 삭제 기능
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/57563053/103130823-a4b76380-46e1-11eb-9b9c-d45e798d355a.png">
-
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203180-babe6180-4937-11eb-99cb-647dd8502322.png">
