@@ -19,9 +19,9 @@
 
 - 회원가입 / 로그인
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103202850-e725ae00-4936-11eb-89f3-b6393f78b937.png">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204262-42a56b00-493a-11eb-9ebe-de7def8ed425.jpg">
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203076-85b20f00-4937-11eb-881b-fabaf417e5d3.png">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204274-4f29c380-493a-11eb-9f87-c62adae134bf.gif">
 
 
 - 글쓰기 기능
@@ -33,4 +33,4 @@
 
 <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204080-dd517a00-4939-11eb-9db7-d17f4e1338d6.gif">
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203908-687e4000-4939-11eb-9022-294d451474f9.gif">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204138-fb1edf00-4939-11eb-86bf-7e483701d565.gif">
