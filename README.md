@@ -26,9 +26,11 @@
 
 - 글쓰기 기능
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203126-98c4df00-4937-11eb-9e66-5e6ed4e7dae7.png">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203818-2523d180-4939-11eb-9539-7a0f0866e53b.gif">
 
 
 - 글 수정 및 삭제 기능
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203180-babe6180-4937-11eb-99cb-647dd8502322.png">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204080-dd517a00-4939-11eb-9db7-d17f4e1338d6.gif">
+
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203908-687e4000-4939-11eb-9022-294d451474f9.gif">
